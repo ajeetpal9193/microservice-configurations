@@ -1,8 +1,8 @@
-# Application Name
+
   application:
     name: ConfigServer
     
-# Eureka Discovery Register    
+ 
 eureka:
   instance:
     prefer-ip-address: true
